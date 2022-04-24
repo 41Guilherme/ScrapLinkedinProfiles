@@ -4,8 +4,10 @@ Aplicação de Data Mining para pegar perfis do linkedin de cargos selecionados 
 
 ## Modo de uso
 
--Insira os cargos no execute_scrap
--Coloque o Nome da empresas no interprizes.txt
+- Insira os cargos no execute_scrap
+
+- Coloque o Nome da empresas no interprizes.txt
 
 -Rode o execute_scrap para extrair os dados
+
 -Rode o execute_db para salva-los num banco mysql (coloque suas credenciais num arquivo auth.ini)
